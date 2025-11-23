@@ -11,3 +11,6 @@ public class VariablesExample {
         System.out.println("Logged In: " + isLoggedIn);
     }
 }
+
+Hello
+This is the commit to check whether poll scm is working or not
